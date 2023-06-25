@@ -10,7 +10,7 @@
 
 ** Copyright
 
-Copyright (c) 2022 Tim Hawes <trhawes@gmail.com>
+Copyright (c) 2023 Tim Hawes <trhawes@gmail.com>
 
 ** License
 
